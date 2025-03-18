@@ -8,7 +8,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 page_bg_img = '''
 <style>
     .stApp {
-        background-image: url("https://img.freepik.com/free-photo/top-view-desk-concept-with-copy-space_23-2148236823.jpg?t=st=1742299973~exp=1742303573~hmac=46096f78c68df458f5beeb601693a24bc4f15d952213d7697420d4c987887eb1&w=1380");
+        background-image: url("https://downloadscdn6.freepik.com/23/2148237/2148236823.jpg?filename=top-view-desk-concept-with-copy-space.jpg&token=exp=1742306210~hmac=9260558c15e10ff83a59473dd85b4740&filename=2148236823.jpg&_gl=1*dg6xqf*_gcl_au*OTY2NzkwMzY3LjE3NDIyOTk5MDQ.*_ga*MTk2Mjg0MjMzNC4xNzQyMjk5OTA1*_ga_QWX66025LC*MTc0MjMwMjcwMS4yLjEuMTc0MjMwNTMxMC42MC4wLjA.");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
