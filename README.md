@@ -53,5 +53,5 @@ A table will be generated can be imported in csv format:
 **Bipin Yadav**  
 📧 bipinyadav919@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/bipin-yadav-jan16)  
-🔗 [GitHub](https://github.com/BKY1601)
+🔗 [GitHub](https://github.com/BKY1601)                                                                                                   
 🔗 [Live project Link](https://resume-ranking-by-bky.streamlit.app/)
